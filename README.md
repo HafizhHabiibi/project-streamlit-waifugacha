@@ -44,14 +44,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🌐 Deploy Online
+## 🌐 Deploy Online
 Proyek ini juga bisa diakses online melalui Streamlit Cloud (gratis!).
 Cukup klik deploy dan isi nama repo serta file utama (app.py).
 
-📦 Requirements
-streamlit
-
+## 📦 Requirements
 Semua sudah tercantum di requirements.txt.
 
-🧠 Credits
+## 🧠 Credits
 Dibuat oleh @HafizhHabiibi ft ChatGPT **VIBE CODING CIHUY WKWK**
